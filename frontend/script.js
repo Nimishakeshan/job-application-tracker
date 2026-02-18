@@ -1,4 +1,4 @@
-const API_URL = "https://job-application-tracker-mv4x.onrender.com/";
+const API_URL = "https://job-application-tracker-mv4x.onrender.com";
 
 const table = document.getElementById("jobTable");
 const form = document.getElementById("jobForm");
