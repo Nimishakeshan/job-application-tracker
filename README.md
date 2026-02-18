@@ -46,6 +46,6 @@ Add a job → table updates
 Update job status → and click on update, table updates
 Delete job → removed from table
 
-# Deployed Frontend Url: https://zingy-souffle-bc60b9.netlify.app/
-# Deployed Backend Url: https://job-application-tracker-mv4x.onrender.com
+### Deployed Frontend Url: https://zingy-souffle-bc60b9.netlify.app/
+### Deployed Backend Url: https://job-application-tracker-mv4x.onrender.com
 
